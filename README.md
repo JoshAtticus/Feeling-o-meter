@@ -15,6 +15,6 @@ Feeling-o-meter doesn't use server code, such as PHP, instead using basic HTML5 
 
 # How do I use it?
 You can follow the simple setup guide in our wiki to setup Feeling-o-meter.
-> *Note*
+> **Note**
 >
 > The tutorial in our wiki shows how to deploy Feeling-o-meter to GitHub Pages, although you just need to be able to access index.html from your alternate hosting provider if you choose to use one.
