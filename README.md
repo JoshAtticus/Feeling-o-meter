@@ -14,7 +14,7 @@ A big feature of Feeling-o-meter is its PWA support, which allows it to be insta
 Feeling-o-meter doesn't use server code, such as PHP, instead using basic HTML5 and JS. This allows it to be hosted on any website deployment platform, without the need for a server or VPS.
 
 # How do I use it?
-You can follow the simple setup guide in our wiki to setup Feeling-o-meter.
+You can follow the ![simple setup guide in our wiki](https://github.com/JoshAtticus/Feeling-o-meter/wiki/Getting-Started) to setup Feeling-o-meter.
 > **Note**
 >
 > The tutorial in our wiki shows how to deploy Feeling-o-meter to GitHub Pages, although you just need to be able to access index.html from your alternate hosting provider if you choose to use one.
